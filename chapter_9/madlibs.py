@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from pathlib import Path
 
 KEYWORDS = ("ADJECTIVE", "NOUN", "ADVERB", "VERB")
