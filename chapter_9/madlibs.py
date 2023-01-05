@@ -32,13 +32,3 @@ for line in lines:
     result_file.write(new_sentence + "\n")
 
 result_file.close()
-
-
-
-    
-
-
-
-
-
-# Save new sentances.
