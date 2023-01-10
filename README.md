@@ -1,6 +1,6 @@
 # chapter_projects_patbs
 
-Most end chapter practice projects for [Python automate-the-boring-stuff v2](https://www.amazon.com/Automate-Boring-Stuff-Python-2nd/dp/1593279922) chapters 7+
+Some end chapter practice projects for [Python automate-the-boring-stuff v2](https://www.amazon.com/Automate-Boring-Stuff-Python-2nd/dp/1593279922) chapters 7+
 
 All projects are coded to run from the root of the git directory.
 
