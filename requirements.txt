@@ -9,6 +9,7 @@ h11==0.14.0
 idna==3.4
 openpyxl==3.0.10
 outcome==1.2.0
+pycryptodome==3.16.0
 PyInputPlus==0.2.12
 PyPDF2==3.0.1
 PySimpleValidate==0.2.12
