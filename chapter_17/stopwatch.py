@@ -14,7 +14,11 @@ try:
         input()
         lapTime = round(time.time()-lastTime,2)
         totalTime = round(time.time()-startTime,2)
-        print('Lap #%s:%s(%s)'%(lapNum,totalTime,lapTime),end="")
+
+        lapStr = str(lapNum).ljust(2)
+        totalStr = str(totalTime).rjust(5)
+        lapTStr = str(lapTime).rjust(5)
+        print(f'Lap #{lapStr}:{totalStr}({lapTStr})',end="")
         lapNum += 1
         lastTime = time.time()
 except KeyboardInterrupt:
